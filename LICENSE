@@ -1,0 +1,7 @@
+The fonts in bdf/ are the X11 misc-fixed fonts from Markus Kuhn's ucs-fonts
+(https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html), which are in the public
+domain: "Public domain font. Share and enjoy."
+
+The converted fonts in ttf/ and the scripts in this repository are released
+into the public domain as well. Where that is not possible, they are licensed
+under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
